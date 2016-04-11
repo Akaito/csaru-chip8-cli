@@ -21,6 +21,6 @@ CSaru_Bin_Console(0.1 "${src_files}" "${header_files}")
 set(CXX_STANDARD_REQUIRED true)
 set_property(TARGET ${PROJECT_NAME} PROPERTY CXX_STANDARD 11)
 
-CSaru_Depends("chip8")
+CSaru_Depends("csaru-chip8")
 CSaru_Depends("csaru-core-cpp")
 

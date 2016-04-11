@@ -3,7 +3,7 @@
 #include <ctime>
 
 #include <csaru-core-cpp/csaru-core-cpp.h>
-#include <chip8/chip8.hpp>
+#include <csaru-chip8/chip8.hpp>
 
 int main (int argc, const char * argv[]) {
 
