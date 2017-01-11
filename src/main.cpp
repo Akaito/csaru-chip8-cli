@@ -2,7 +2,7 @@
 #include <cstdio>
 #include <ctime>
 
-#include <csaru-core-cpp/csaru-core-cpp.h>
+#include <csaru-core-cpp/csaru-core-cpp.hpp>
 #include <csaru-chip8/chip8.hpp>
 
 int main (int argc, const char * argv[]) {
